@@ -1,0 +1,9 @@
+.login-modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.login-modal-content * {
+  font-family: 'Montserrat', sans-serif;
+}

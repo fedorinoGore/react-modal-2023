@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: rgb(242, 242, 242);
+  background-image: radial-gradient(
+    rgba(31, 41, 55, 0.2) 0.5px,
+    rgb(242, 242, 242) 0.5px
+  );
+  background-size: 5px 5px;
+  background-position: top;
+  background-repeat: repeat;
+}
